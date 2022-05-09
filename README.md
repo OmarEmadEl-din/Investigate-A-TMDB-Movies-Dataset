@@ -1,6 +1,9 @@
 # Investigate-A-TMDB-Movies-Dataset
 
 This dataset originates from IMDB and comprises information from The Movie Database (TMDb) on 10,000 movies, short films, and television shows, including user ratings, revenue, runtime, and budget.
+
+you can find data on Kaggle https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata 
+
 I'll be addressing the following questions in this project:
 
 Q1:what is the best month to release movie or show?
